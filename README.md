@@ -1,10 +1,11 @@
-<<<<<<< HEAD
 # Project: UF Event Marking_yoloV5
 
 Event Marking 구현을 위한 yolov5 알고리즘 구현입니다.
-=======
-# Project : Uniformity Event Marking
+
+ Project : Uniformity Event Marking
+
 #1. Summary
+
  - 알고리즘 : YOLO V5
  - labeling tool : labelimg / https://github.com/tzutalin/labelImg.git
  - label : Tire Outter / Tire Inner / Barcode
@@ -21,4 +22,4 @@ Event Marking 구현을 위한 yolov5 알고리즘 구현입니다.
   - Labeling 작업 진행
   
 #3. Yolo V5 사용법
->>>>>>> b5c15fdf9ac062c49d2af429a2e676459b9dc4e9
+
