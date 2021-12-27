@@ -22,4 +22,5 @@ Event Marking 구현을 위한 yolov5 알고리즘 구현입니다.
   - Labeling 작업 진행
   
 #3. Yolo V5 사용법
-
+ - Training_YOLOV5.ipynb 파일 참조
+ - best.pt파일을 활용하여 detect.py파일 활용하여 사용
